@@ -1,0 +1,30 @@
+[
+    {
+        "text": "The movie was fantastic!",
+        "label": "positive"
+    }, {
+        "text": "Very boring. Fell asleep.",
+        "label": "negative"
+    }, {
+        "text": "It was just OK.",
+        "label": "neutral"
+    }, {
+        "text": "Wonderful! It was breathtaking",
+        "label": "positive"
+    }, {
+        "text": "This sucks",
+        "label": "negative"
+    }, {
+        "text": "It is what it is",
+        "label": "neutral"
+    }, {
+        "text": "The movie was the best thing ever",
+        "label": "positive"
+    }, {
+        "text": "Not for me",
+        "label": "negative"
+    }, {
+        "text": "Not bad but nothing special",
+        "label": "neutral"
+    }
+]
